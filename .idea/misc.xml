@@ -3,6 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/Layout_Android/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/Layout_Android/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1865" />
+        <entry key="..\:/AndroidStudioProjects/Layout_Android/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/Layout_Android/app/src/main/res/layout/bedroom.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Layout_Android/app/src/main/res/layout/livingroom.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/Layout_Android/app/src/main/res/layout/profile.xml" value="0.1796875" />
+        <entry key="..\:/AndroidStudioProjects/Layout_Android/app/src/main/res/menu/menu_bottom_nav.xml" value="0.1" />
         <entry key="..\:/Project android/Layout_Android/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/Project android/Layout_Android/app/src/main/res/layout/bedroom.xml" value="0.17552083333333332" />
         <entry key="..\:/Project android/Layout_Android/app/src/main/res/layout/dashboard.xml" value="0.17552083333333332" />
@@ -14,5 +21,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
   </component>
 </project>
