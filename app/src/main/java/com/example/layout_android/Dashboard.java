@@ -43,6 +43,9 @@ public class Dashboard extends AppCompatActivity {
                         // chuyển trang profile
                         profile_page();
                         break;
+                    case R.id.logoutaction:
+                        login_page();
+                        break;
                 }
                 return false;
             }
@@ -51,7 +54,10 @@ public class Dashboard extends AppCompatActivity {
                 Intent intent=new Intent(Dashboard.this,Profile.class);
                 startActivity(intent);
             }
-
+            public void login_page(){
+                Intent intent=new Intent(Dashboard.this,Login.class);
+                startActivity(intent);
+            }
         });
 
 
